@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreBoard", "ScoreBoard\ScoreBoard.csproj", "{06B8A223-94BE-432C-86F7-7F71A019A03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreBoard.Tests", "ScoreBoard.Tests\ScoreBoard.Tests.csproj", "{4C149E02-AD6D-4B11-905E-6F1EF2FE540D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B8A223-94BE-432C-86F7-7F71A019A03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B8A223-94BE-432C-86F7-7F71A019A03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B8A223-94BE-432C-86F7-7F71A019A03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B8A223-94BE-432C-86F7-7F71A019A03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C149E02-AD6D-4B11-905E-6F1EF2FE540D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C149E02-AD6D-4B11-905E-6F1EF2FE540D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C149E02-AD6D-4B11-905E-6F1EF2FE540D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C149E02-AD6D-4B11-905E-6F1EF2FE540D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
